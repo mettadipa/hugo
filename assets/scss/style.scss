@@ -1,7 +1,7 @@
 // Color Variables
 {{ with site.Params.variables }}
-$primary-color: {{.primary_color | default "#0AA8A7"}};
-$text-color: {{.text_color | default "#777"}};
+$primary-color: {{.primary_color | default "#222b45"}};
+$text-color: {{.text_color | default "#222b45"}};
 $text-color-dark: {{.text_color_dark | default "#222"}};
 $body-color: {{.body_color | default "#fff"}};
 $border-color: {{.border_color | default "#ECECEC"}};
@@ -10,7 +10,7 @@ $white: {{.white | default "#fff"}};
 $light: {{.light | default "#EDF6F5"}};
 
 // Font Variables
-$primary-font: '{{ replaceRE ":[ital,]*wght@[0-9,;]+" "" .primary_font | default "Lato"}}', {{.primary_font_type | default "sans-serif"}};
+$primary-font: '{{ replaceRE ":[ital,]*wght@[0-9,;]+" "" .primary_font | default "Roboto"}}', {{.primary_font_type | default "sans-serif"}};
 $icon-font: '{{.icon_font | default "Font Awesome 5 Free"}}';
 {{ end }}
 

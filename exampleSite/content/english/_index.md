@@ -1,7 +1,7 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Hugo seems to solve most of the <br> development challenges"
+  title : "Trung tâm UNESCO Bồi dưỡng Kỹ năng sống <br>và ứng dụng thiền Vipassana"
   image : "images/banner-art.svg"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
   button:

@@ -5,13 +5,39 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Blog"
-url = "blog"
+identifier = "vipassana"
+name = "Thiền Vipassana"
+url = "#"
+weight = 2
+
+
+[[main]]
+name = "Thiền Vipasana là gì?"
+url = "vipassana"
+parent = "vipassana"
+weight = 1
+
+[[main]]
+name = "Nghệ thuật sống thiền Vipassana?"
+url = "nghe-thuat-song"
+parent = "vipassana"
 weight = 2
 
 [[main]]
-name = "Pricing"
-url = "pricing"
+name = "Phương pháp & Nội quy"
+url = "phuong-phap"
+parent = "vipassana"
+weight = 3
+
+[[main]]
+name = "Hỏi đáp"
+url = "hoi-dap"
+parent = "vipassana"
+weight = 4
+
+[[main]]
+name = "Blog"
+url = "blog"
 weight = 3
 
 [[main]]
@@ -19,15 +45,11 @@ name = "About"
 url = "about"
 weight = 4
 
+
 [[main]]
 name = "Contact"
 url = "contact"
 weight = 5
-
-[[main]]
-name = "FAQ"
-url = "faq"
-weight = 6
 
 # footer menu left
 [[footer_left]]

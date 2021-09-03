@@ -1,12 +1,11 @@
 ---
-title: "About"
+title: "Trung tâm UCENLIST"
 subtitle: ""
 # meta description
 description: "This is meta description"
 draft: false
 ---
 
-# Chào mừng quý vị đến với Trung tâm UCENLIST
 Trung tâm UNESCO Bồi dưỡng Kỹ năng sống và ứng dụng thiền Vipassana (UCENLIST) là đơn vị thành viên của Liên hiệp các hội UNESCO Việt Nam theo Quyết định thành lập số 77/QĐ-LH ngày 18/10/2012 của Chủ tịch Liên hiệp.
 
 Trung tâm được giao nhiệm vụ tổ chức các hoạt động tư vấn, hướng dẫn và bồi dưỡng kỹ năng sống, trong đó chuyên sâu về kỹ năng tâm lý – xã hội và kỹ năng cá nhân cho tất cả mọi người, đặc biệt là học sinh, sinh viên, giới trí thức trẻ và doanh nhân. Với nhiệm vụ được giao, Trung tâm lựa chọn và tập trung vào việc tổ chức các khóa thiền Vipassana nội trú do thiền sư S.N. Goenka cùng các thiền sư phụ tá giảng dạy theo truyền thống của ngài U Ba Khin. Đây là phương pháp thiền khoa học, kỹ thuật đơn giản và phù hợp cho mọi người thực hành, ứng dụng trong đời sống hàng ngày như một nghệ thuật sống để con người sống hài hòa với chính mình, với gia đình và xã hội trong sự cân bằng và phát triển lối sống lành mạnh, đạo đức, có trách nhiệm, tuân thủ pháp luật.
