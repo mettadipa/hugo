@@ -37,6 +37,11 @@
           <i class="{{.icon}} mb-3"></i>
           <h4 class="mb-2">{{ .name | title }}</h4>
           <p>{{ .content | markdownify }}</p>
+          {{ if .button.enable }}
+          {{ with .button }}
+          <a href="{{ .link | relURL }}" title="{{ .label }}" class="btn-link">{{ .label }}</i></a>
+          {{ end }}
+          {{ end }}
         </div>
       </div>
       {{ end }}

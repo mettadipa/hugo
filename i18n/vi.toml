@@ -1,5 +1,5 @@
 [readmore]
-other = "Read more"
+other = "Đọc thêm"
 
 [translations]
 other="Translations"
@@ -8,16 +8,16 @@ other="Translations"
 other = "We are really sorry but there seems to be nothing here."
 
 [yourname]
-other = "Your Name"
+other = "Họ & tên"
 
 [youremail]
-other = "Your Email"
+other = "Email"
 
 [subject]
-other = "Subject"
+other = "Tiêu đề"
 
 [yourmessage]
-other = "Your Message"
+other = "Nội dung"
 
 [sendnow]
-other = "Send Now"
+other = "Gửi tin"

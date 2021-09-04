@@ -7,29 +7,29 @@ sections:
 - type: heading
   label: Homepage
 - type: document
-  path: exampleSite/content/english/_index.md
-  label: Homepage (en)
+  path: exampleSite/content/vietnamese/_index.md
+  label: Homepage (vi)
 - type: document
   path: exampleSite/content/deutsch/_index.md
   label: Homepage (de)
 - type: heading
   label: Blog
 - type: document
-  path: exampleSite/content/english/blog/_index.md
-  label: Blog Page (en)
+  path: exampleSite/content/vietnamese/news/_index.md
+  label: Blog Page (vi)
 - type: document
-  path: exampleSite/content/deutsch/blog/_index.md
+  path: exampleSite/content/deutsch/news/_index.md
   label: Blog Page (de)
 - type: directory
-  path: exampleSite/content/english/blog
-  label: Blog Post (en)
+  path: exampleSite/content/vietnamese/news
+  label: Blog Post (vi)
   create: documents
   match: "**/*"
   exclude: _index.md
   templates:
   - post
 - type: directory
-  path: exampleSite/content/deutsch/blog
+  path: exampleSite/content/deutsch/news
   label: Blog Post (de)
   create: documents
   match: "**/*"
@@ -39,20 +39,20 @@ sections:
 - type: heading
   label: Others Page
 - type: document
-  path: exampleSite/content/english/contact/_index.md
-  label: Contact (en)
+  path: exampleSite/content/vietnamese/contact/_index.md
+  label: Contact (vi)
 - type: document
   path: exampleSite/content/deutsch/contact/_index.md
   label: Contact (de)
 - type: document
-  path: exampleSite/content/english/pricing/_index.md
-  label: Pricing (en)
+  path: exampleSite/content/vietnamese/pricing/_index.md
+  label: Pricing (vi)
 - type: document
   path: exampleSite/content/deutsch/pricing/_index.md
   label: Pricing (de)
 - type: document
-  path: exampleSite/content/english/faq/_index.md
-  label: FAQ (en)
+  path: exampleSite/content/vietnamese/faq/_index.md
+  label: FAQ (vi)
 - type: document
   path: exampleSite/content/deutsch/faq/_index.md
   label: FAQ (de)
@@ -82,8 +82,8 @@ sections:
   path: exampleSite/config/_default/languages.toml
   label: Languages
 - type: document
-  path: exampleSite/config/_default/menus.en.toml
-  label: Menu (en)
+  path: exampleSite/config/_default/menus.vi.toml
+  label: Menu (vi)
 - type: document
   path: exampleSite/config/_default/menus.de.toml
   label: Menu (de)
