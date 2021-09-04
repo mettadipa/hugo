@@ -42,20 +42,38 @@ parent = "about"
 weight = 5
 
 [[main]]
+identifier = "courses"
+name = "Các khoá thiền"
+url = "#"
+weight = 3
+
+[[main]]
+name = "Khoá thiền tại Hà Nội"
+url = "ucenlist-vma-hn"
+parent = "courses"
+weight = 1
+
+[[main]]
+name = "Khoá thiền tại TP Hồ Chí Minh"
+url = "ucenlist-vma-hcmc"
+parent = "courses"
+weight = 2
+
+[[main]]
 name = "Tin tức"
 url = "news"
-weight = 3
+weight = 4
 
 [[main]]
 name = "UCENLIST"
 url = "ucenlist"
-weight = 4
+weight = 5
 
 
 [[main]]
 name = "Liên hệ"
 url = "contact"
-weight = 5
+weight = 6
 
 # footer menu left
 [[footer_left]]
@@ -79,28 +97,27 @@ name = "Phương pháp & Nội quy"
 url = "/phuong-phap"
 weight = 4
 
+[[footer_left]]
+name = "Hỏi đáp"
+url = "faq"
+weight = 5
+
 # footer menu middle
 [[footer_middle]]
-name = "Pricing"
-url = "pricing"
+name = "Khoá thiền tại Hà Nội"
+url = "ucenlist-vma-hn"
+weight = 1
 
 [[footer_middle]]
-name = "Platform"
-url = "#"
-
-[[footer_middle]]
-name = "Features"
-url = "#"
+name = "Khoá thiền tại TP Hồ Chí Minh"
+url = "ucenlist-vma-hcmc"
+weight = 2
 
 # footer menu right
 [[footer_right]]
-name = "Privacy Policy"
-url = "privacy-policy"
+name = "Giới thiệu"
+url = "ucenlist"
 
 [[footer_right]]
-name = "Terms & Conditions"
-url = "terms-conditions"
-
-[[footer_right]]
-name = "FAQ"
-url = "faq"
+name = "Liên hệ"
+url = "contact"

@@ -2,15 +2,14 @@
 title: "UCENLIST tự hào là thành viên của Liên hiệp các hội UNESCO Việt Nam"
 date: 2020-04-18T10:07:21+06:00
 # post image
-image: "images/news/ucenlist_huan_chuong.jpeg"
+image: "images/news/ucenlist_huan_chuong.jpg"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "This is meta description"
+description: "UCENLIST tự hào là thành viên của Liên hiệp các hội UNESCO Việt Nam"
 # post draft
 draft: false
 ---
-
 
 Tháng 3/1993, Ngài Federico Mayor, tổng giám đốc UNESCO, trong chuyến thăm Việt Nam đã mang theo một sáng kiến quan trọng, đề xuất với chính phủ Việt Nam – đó là khuyến nghị của tổ chức UNESCO về việc cho ra đời tại Việt Nam một tổ chức phi chính phủ mang tên UNESCO. Tổ chức có mục đích phấn đấu cho sự nghiệp xây dựng và bảo vệ tổ quốc Việt Nam theo lý tưởng hòa bình cao quý và các tiêu chí tiến bộ của UNESCO. Sáng kiến đó đã được chính phủ Việt Nam hoan nghênh và đón nhận.
 

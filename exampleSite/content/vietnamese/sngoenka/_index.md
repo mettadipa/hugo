@@ -8,7 +8,7 @@ draft: false
 
 # Tiểu sử
 
-{{< figure src="sngoenka.webp" class="rounded float-right" title="Steve Francia" >}}
+{{< figure src="sngoenka.webp" class="rounded float-right" caption="Thiền sư Goenka" >}}
 
 Mặc dù gốc là người Ấn độ, Ông Goenka sinh trưởng và lớn lên tại Miến điện. Trong thời gian cư ngụ tại Miến điện, Ông đã may mắn được gặp U ba Khin và được truyền dạy phương pháp Thiền Vipassana. Sau khi thụ huấn với sư phụ đuợc mười bốn năm, Ông Goenka về cư ngụ tại Ấn độ và bắt đầu giảng dạy Vipassana vào năm 1969. Trong một quốc gia còn nhiều chia rẽ bởi những giai cấp và tôn giáo khác nhau, những khóa thiền do Ông Goenka hướng dẫn đã thu hút hàng ngàn người thuộc mọi tầng lớp trong xã hội. Thêm vào đó, nhiều người từ những quốc gia trên khắp thế giới đã tới tham dự những khóa Thiền Vipassana.
 
@@ -84,12 +84,13 @@ Bởi vì có sự khác biệt lớn lao giữa những tôn giáo, làm sao ch
 
 Tôi xuất thân từ vùng đất cổ xưa nơi có nhiều trường phái về triết lý và tâm linh khác nhau từ ngàn năm qua. Mặc dù có một vài bạo động lẻ tẻ, nước tôi đã là khuôn mẫu về chung sống hòa bình. Khoảng 2300 năm trưóc đây Ashoka Đại đế trị vì nước này, một đế quốc trải rộng từ Afghanistan tới Bangledesh. Trong thời gian trị vì, vị vua nhiều từ tâm này đã cho khắc nhiều châm ngôn vào bia đá, nói rằng mọi tín ngưỡng cần được tôn trọng; và kết quả là tín đồ của mọi truyền thống tâm linh cảm thấy được an toàn dưới sự trị vì của Ngài. Ngài đòi hỏi dân chúng phải sống một cuộc sống đạo đức, kính trọng cha mẹ và bậc trưởng thượng, và tránh sát sinh. Những lời của Ngài cho tới ngày nay vẫn còn phù hợp:
 
-Ta không nên chỉ tôn vinh tôn giáo của mình và lên án tôn giáo của nhũng người khác. Trái lại. ta phải tôn vinh những tôn giáo khác vì nhiều lý do khác nhau. Làm như vậy ta giúp tôn giáo của mình phát triển đồng thời cũng giúp cho tôn giáo của người khác. Nếu làm ngược lại, ta đào hố tự chôn tôn giáo của mình và đồng thời cũng làm hại các tôn giáo khác. Những ai tôn kính tôn giáo của mình và đả kích những tôn giáo khác có thể vì lòng tôn sùng tôn giáo của mình, nghĩ là, “Tôi sẽ làm tôn giáo của tôi được vinh quang”, nhưng hành động này làm tổn thương tôn giáo của người đó rất nhiều. Đồng thuận bao giờ cũng tốt. Mọi người hãy lắng nghe và sẵn sàng lắng nghe giáo lý của người khác. (Bia Đá số 12)
+> Ta không nên chỉ tôn vinh tôn giáo của mình và lên án tôn giáo của nhũng người khác. Trái lại. ta phải tôn vinh những tôn giáo khác vì nhiều lý do khác nhau. Làm như vậy ta giúp tôn giáo của mình phát triển đồng thời cũng giúp cho tôn giáo của người khác. Nếu làm ngược lại, ta đào hố tự chôn tôn giáo của mình và đồng thời cũng làm hại các tôn giáo khác. Những ai tôn kính tôn giáo của mình và đả kích những tôn giáo khác có thể vì lòng tôn sùng tôn giáo của mình, nghĩ là, “Tôi sẽ làm tôn giáo của tôi được vinh quang”, nhưng hành động này làm tổn thương tôn giáo của người đó rất nhiều. Đồng thuận bao giờ cũng tốt. Mọi người hãy lắng nghe và sẵn sàng lắng nghe giáo lý của người khác. (Bia Đá số 12)
+
 Hoàng đế Ashoka tượng trưng cho một truyền thồng sáng chói về chung sống hòa hợp và hòa bình trường cửu. Truyền thống đó tiếp tục sống còn trong những chính phủ và các lãnh tụ ngày nay. Một ví dụ là quốc vương thánh thiện của Oman đã cống hiến đất đai cho nhà thờ và chùa chiền của những tín ngưỡng khác trong khi vẫn thực hành tôn giáo của Ngài bằng tất cả sự tôn kính và nhiệt tâm. Tôi tin chắc rằng trong tương lai, sẽ có nhiều nhà lãnh đạo và chính phủ như thế tại nhiều quốc gia trên thế giới. Như thường được nói, “Hãy ban ơn cho những người tạo ra hòa bình, vì họ được gọi là Con của Thượng đế.”
 
 Thật quá rõ ràng là sự tàn bạo trước tiên làm hại những người thân. Họ có thể làm như vậy một cách trực tiếp, qua sự cố chấp, hay gián tiếp, bằng cách tạo ra phản ứng dữ dội lại những hành động này. Một mặt khác, thường được nói rằng, “Lành thay cho dung thứ, vì họ sẽ được dung thứ.” Đây là luật tự nhiên. Nó có thể gọi tương đương với luật đường lối của Thượng đế. Đức Phật nói, “Thù hận không thể xóa bỏ bằng thù hân nhưng chỉ bằng cách làm ngược lại. Đây là Dhamma (Pháp) vĩnh cửu (luật tâm linh).” Cái được gọi là Dhamma không liên quan gì tới Ấn độ giáo, Phật giáo, đạo Jain, Thiên chúa giáo, đạo Hồi, đạo Juda, đạo Sikhi hoặc bất cứ đạo nào khác. Nó chỉ là sự thật giản dị: trước khi quý vị hại người khác, quý vị làm hại mình trước bằng cách tạo ra tiêu cực trong tâm; bằng cách hết tiêu cực, quý vị có thể tìm được an lạc nội tâm và củng cố hòa bình trên thế giới.
 
-An lạc nội tâm cho hòa bình thế giới
+### An lạc nội tâm cho hòa bình thế giới
 Mọi tôn giáo xứng với tên gọi đều kêu gọi tín đồ sống một cuộc sống đạo đức và chính đáng, làm chủ được tâm và vun trồng một tâm hồn thánh thiện. Một truyền thống bảo chúng ta, “Hãy thương yêu hàng xóm”; một truyền thống khác nói, Salaam walekum — “Nguyện cho bạn được hạnh phúc”; một truyền thống khác còn nói, Bhavatu sabba mangalan hay Sarve bhavantu sukhinak — “Nguyện cho mọi chúng sinh được hạnh phúc.” Cho dù là Thánh kinh, Kinh Koran, hay kinh Gita, kinh điển đều kêu gọi hòa bình và hòa hợp. Từ Mahavir cho đến Jesus, tất cả những người sáng lập ra những tôn giáo lớn đều có lý tưởng về khoan dung và hòa bình. Tuy nhiên thế giới của chúng ta thường bị xung đột bởi sự khác biệt giữa các tôn giáo và tông phái, ngay cả chiến tranh – bởi vì chúng ta chỉ chú trọng tới vỏ bên ngoài mà quên đi tính túy của tôn giáo. Đây là hậu quả của sự thiếu tình thưong và lòng bác ái.
 
 Hòa bình trên thế giới không thể đạt được trừ khi có được an lạc trong mỗi cá nhân. Vọng động và an lạc không thể tồ tại chung với nhau được. Một đường lối để đạt được an lạc nội tâm là Thiền Vipassana hay thiền tuệ giác – một phương pháp không tông phái, khoa học và có kết quả thực tiễn, một phương pháp tự quan sát và nhận biết sự thật. Thực tập phương pháp này mang lại sự hiểu biết thực nghiệm về sự tương quan giữa tâm và thân. Bất cứ khi nào tiêu cực nẩy sinh trong tâm như thù hận, nó sinh ra những cảm giác khó chịu trong người. Bất cứ khi nào tâm sinh ra tình thương vô vị lợi, bác ái và thiện chí, toàn thể con người tràn ngập những cảm giác dễ chịu. Thực tập Vipassana cũng cho thấy rằng hành động tinh thần đi trước hành động bằng tay chân và lời nói, quyết định hành động đó là thiện hoặc bất thiện. Tâm quan trọng nhất. Đó là tại sao chúng ta phải tìm ra đường lối thực tiễn để làm cho tâm được an lạc và thánh thiện. Những phương pháp như thế sẽ gia tăng gấp bội sự hữu hiệu của bản hiến chương chung của Hội Nghị Thượng Đỉnh Về Hòa Bình Thế Giới này.
@@ -100,7 +101,7 @@ Nước Ấn độ cổ xưa cống hiến hai phương cách cho thế giới. 
 
 Nói rộng hơn, một xã hội hòa bình sẽ tìm được cách sống hòa bình với hoàn cảnh thiên nhiên. Chúng ta đều hiểu sự cần thiết phải bảo vệ môi trường, chấm dứt làm ô nhiễm môi trường. Cái ngăn cấm chúng ta hành xử được đúng là vì những ô nhiễm trong tâm, như vô minh, tàn nhẫn, và tham lam. Dứt bỏ được nhhững ô nhiễm này sẽ đưa đến hòa bình giữa con người, đồng thời đưa đến một sự liên hệ quân bình và lành mạnh giữa xã hội loài người và môi trường thiên nhiên. Đây là cách tôn giáo có thể khuyến khích sự bảo vệ môi trường.
 
-Bất bạo động: Chìa khóa để Định nghĩa Tôn giáo
+### Bất bạo động: Chìa khóa để Định nghĩa Tôn giáo
 Sự khác biệt giữa các tôn giáo đương nhiên phải có. Tuy nhiên, với việc tham dự Hội Nghị Thượng Đỉnh Về Hòa Bình Thế Giới này, những nhà lãnh đạo của các tôn giáo lớn chứng tỏ rằng họ đều mong muốn làm việc cho hòa bình. Bây giờ hãy để hòa bình là nguyên lý đầu tiên cho “tôn giáo đại đồng”. Hãy để chúng ta cùng tuyên bố rằng chúng ta sẽ tránh không giết hại, rằng chúng ta lên án bạo động. Tôi cũng khuyến khích các nhà lãnh đạo chính trị tham gia vào tuyên ngôn này, trao cho họ vai trò chính yếu trong việc mang lại hòa bình hoặc chiến tranh. Dù họ có hội nhập với chúng ta hay không, ít nhất cũng để chúng ta có lời thệ nguyện nơi đây và ngay bây giờ: thay vì khuyến khích bạo động và giết hại, chúng ta hãy tuyên bố rằng chúng ta lên án vô điều kiện những hành động như thế, đặc biệt là bạo động mượn danh nghĩa của tôn giáo.
 
 Một số các nhà lãnh đạo tinh thần đã có sự thánh thiện và cam đảm để lên án những bạo động dưới danh nghĩa tôn giáo của mình. Có thể có những triết lý và triết thuyết khác nhau trong quan niệm về cách tìm kiếm sự tha thứ và hối hận về sự bạo động và chém giết trong quá khứ; nhưng chính sự xác nhận có bạo động xẩy ra trong quá khứ ám chỉ rằng điều đó là sai trái và không thể khuyến khích trong tương lai.
@@ -109,12 +110,13 @@ Dưới sự hỗ trợ của Liên Hiệp Quốc, chúng ta hãy hình thành m
 
 Tôi tin chắc rằng Hội nghị Thượng đỉnh này sẽ giúp thế giới đặt trọng tâm vào mục đích đích thực của tôn giáo:
 
-Tôn giáo không chia rẽ chúng ta;
-Tôn giáo giảng dạy tâm an lạc và thánh thiện.
+> Tôn giáo không chia rẽ chúng ta;<br>
+> Tôn giáo giảng dạy tâm an lạc và thánh thiện.
+
 Tôi tán thán nỗ lực và sáng kiến của những người tổ chức Hội nghị Thượng Đỉnh lịch sử này. Và tôi tán thán những nhà lãnh đạo tôn giáo và tinh thần đã làm việc một cách khôn khéo cho sự hàn gắn, mang lại hy vọng cho nhân loại là tôn giáo và tâm linh sẽ đưa đến một tương lai hòa bình.
 
-Nguyện cho mọi chúng sinh thoát khỏi thù hận và được hạnh phúc.
+Nguyện cho mọi chúng sinh thoát khỏi thù hận và được hạnh phúc!
 
-Nguyện cho hòa bình và hòa hợp đắc thắng.
+Nguyện cho hòa bình và hòa hợp đắc thắng!
 
 {{< /box >}}

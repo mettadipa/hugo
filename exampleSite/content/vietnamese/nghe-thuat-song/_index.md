@@ -2,9 +2,11 @@
 title: "Nghệ thuật sống: Thiền Vipassana"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "Nghệ thuật sống: Thiền Vipassana"
 draft: false
 ---
+
+**Bài viết này dựa trên bài nói chuyện trước công chúng của Thiền Sư Goenka tại Bern, Thụy Sĩ, vào năm 1980.**
 
 Mọi người đều tìm kiếm an lạc và hài hòa bởi vì đây là điều chúng ta thiếu trong cuộc sống. Đôi khi chúng ta cảm thấy bất an, bực bội, không yên. Và khi bị những nỗi khổ này hành hạ, chúng ta không giữ riêng cho mình mà thường trút sang người khác. Sự buồn phiền nhiễm vào bầu không khí xung quanh những người đang bị đau khổ. Những ai tiếp xúc với những người này đều bị ảnh hưởng lây. Chắc chắn đây không phải là cách sống khôn khéo.
 

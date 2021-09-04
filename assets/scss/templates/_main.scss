@@ -13,7 +13,7 @@
     @extend .shadow;
   }
 
-  svg,i {
+  svg {
     font-size: 30px;
     color: $primary-color;
     display: inline-block;
@@ -84,11 +84,11 @@ a.post-title {
   }
 
   a {
-    color: $text-color;
+    color: $primary-color;
     border-bottom: 1px dotted $border-color;
 
     &:hover {
-      color: $primary-color;
+      color: $text-color;
     }
   }
 

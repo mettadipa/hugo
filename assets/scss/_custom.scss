@@ -1,2 +1,9 @@
 // This file is empty within the template
 // You can use it to override CSS from within your project
+
+a {
+    color: $primary-color;
+    &:hover {
+        color: $text-color;
+      }
+}

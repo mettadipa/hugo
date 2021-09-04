@@ -2,17 +2,17 @@
 title: "Ra mắt cơ sở 2 của Trung tâm UCENLIST tại TP Hồ Chí Minh."
 date: 2020-04-18T10:07:21+06:00
 # post image
-image: "images/news/post-3.jpg"
+image: "images/news/ra-mat-co-so-2.jpg"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "This is meta description"
+description: "Ra mắt cơ sở 2 của Trung tâm UCENLIST tại TP Hồ Chí Minh"
 # post draft
 draft: false
 ---
 
 
-Sau gần 3 năm hoạt động, Trung tâm UCENLIST đã tích cực tổ chức các khóa học bồi dưỡng kỹ năng sống và ứng dụng thiền Vipassana do thiền sư S.N.Goenka giảng dạy theo truyền thống của ngài U Ba Khin tại Hà Nội và đem đến lợi ích thiết thực cho nhiều công dân Việt Nam và bạn bè quốc tế tham gia các khóa học.
+Sau gần 3 năm hoạt động, Trung tâm UCENLIST đã tích cực tổ chức các khóa học bồi dưỡng kỹ năng sống và ứng dụng thiền Vipassana do thiền sư Goenka giảng dạy theo truyền thống của ngài U Ba Khin tại Hà Nội và đem đến lợi ích thiết thực cho nhiều công dân Việt Nam và bạn bè quốc tế tham gia các khóa học.
 
 Từ năm 2015, được sự chấp thuận của Liên hiệp các Hội UNESCO Việt Nam, Trung tâm đã khởi động việc mở rộng thêm cơ sở 2 tại thành phố Hồ Chí Minh để đáp ứng nhu cầu ngày càng cao của mọi người: được học kỹ năng sống thông qua thực hành phương pháp thanh lọc tâm trí để đạt được đời sống nội tâm cân bằng, từ đó có thái độ sống tích cực trong sự bình an và yêu thương.
 
