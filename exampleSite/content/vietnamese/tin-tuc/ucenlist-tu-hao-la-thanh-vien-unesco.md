@@ -2,7 +2,7 @@
 title: "UCENLIST tự hào là thành viên của Liên hiệp các hội UNESCO Việt Nam"
 date: 2020-04-18T10:07:21+06:00
 # post image
-image: "images/news/ucenlist_huan_chuong.jpg"
+image: "images/tin-tuc/ucenlist_huan_chuong.jpg"
 # post type (regular/featured)
 type: "regular"
 # meta description

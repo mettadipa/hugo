@@ -6,7 +6,7 @@ weight = 1
 
 [[main]]
 name = "Blog"
-url = "news"
+url = "tin-tuc"
 weight = 2
 
 [[main]]

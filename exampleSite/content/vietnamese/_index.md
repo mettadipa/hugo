@@ -20,7 +20,7 @@ feature:
       button:
         enable : true
         label : "Tìm hiểu"
-        link : "/vipassana-la-gi/"
+        link : "/vipassana-la-gi"
       
     # feature item loop
     - name : "Thiền sư S.N. Goenka"
@@ -36,7 +36,7 @@ feature:
       button:
         enable : true
         label : "Tìm hiểu"
-        link : "/nghe-thuat-song/"
+        link : "/nghe-thuat-song"
       
     # feature item loop
     - name : "Phương Pháp & Nội Quy"
@@ -78,7 +78,7 @@ service:
       button:
         enable : false
         label : "Tìm hiểu thêm"
-        link : "/vipassana/"
+        link : "/vipassana"
         
     # service item loop
     #- title : "It is a privately owned Information and cyber security company"

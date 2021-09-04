@@ -2,7 +2,7 @@
 title: "Ra mắt cơ sở 2 của Trung tâm UCENLIST tại TP Hồ Chí Minh."
 date: 2020-04-18T10:07:21+06:00
 # post image
-image: "images/news/ra-mat-co-so-2.jpg"
+image: "images/tin-tuc/ra-mat-co-so-2.jpg"
 # post type (regular/featured)
 type: "regular"
 # meta description

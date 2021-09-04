@@ -61,7 +61,7 @@ weight = 2
 
 [[main]]
 name = "Tin tức"
-url = "news"
+url = "tin-tuc"
 weight = 4
 
 [[main]]
