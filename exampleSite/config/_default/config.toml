@@ -1,7 +1,8 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org/"
-title = "Hugo Hugo"
+baseURL = "http://ucenlist.org/"
+title = "UCENLIST - ​Trung tâm UNESCO Bồi dưỡng Kỹ năng sống và ứng dụng thiền Vipassana"
 theme = "hugo"
+defaultContentLanguage = "vi"
 # post pagination
 paginate = "3"
 # post excerpt

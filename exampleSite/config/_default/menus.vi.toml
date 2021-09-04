@@ -1,11 +1,11 @@
 # main menu
 [[main]]
-name = "Home"
+name = "Trang chủ"
 url = "/"
 weight = 1
 
 [[main]]
-identifier = "vipassana"
+identifier = "about"
 name = "Thiền Vipassana"
 url = "#"
 weight = 2
@@ -14,56 +14,70 @@ weight = 2
 [[main]]
 name = "Thiền Vipasana là gì?"
 url = "vipassana"
-parent = "vipassana"
+parent = "about"
 weight = 1
+
+[[main]]
+name = "Thiền sư S.N Goenka"
+url = "sngoenka"
+parent = "about"
+weight = 2
 
 [[main]]
 name = "Nghệ thuật sống thiền Vipassana?"
 url = "nghe-thuat-song"
-parent = "vipassana"
-weight = 2
+parent = "about"
+weight = 3
 
 [[main]]
 name = "Phương pháp & Nội quy"
 url = "phuong-phap"
-parent = "vipassana"
-weight = 3
+parent = "about"
+weight = 4
 
 [[main]]
 name = "Hỏi đáp"
-url = "hoi-dap"
-parent = "vipassana"
-weight = 4
+url = "faq"
+parent = "about"
+weight = 5
 
 [[main]]
-name = "Blog"
-url = "blog"
+name = "Tin tức"
+url = "news"
 weight = 3
 
 [[main]]
-name = "About"
-url = "about"
+name = "UCENLIST"
+url = "ucenlist"
 weight = 4
 
 
 [[main]]
-name = "Contact"
+name = "Liên hệ"
 url = "contact"
 weight = 5
 
 # footer menu left
 [[footer_left]]
-name = "About Us"
-url = "#"
+name = "Thiền Vipassana là gì?"
+url = "/vipassana"
+weight = 1
+
+# footer menu left
+[[footer_left]]
+name = "Thiền sư S.N Goenka"
+url = "/sngoenka/"
+weight = 2
 
 [[footer_left]]
-name = "Quick Start"
-url = "#"
+name = "Nghệ thuật sống"
+url = "/nghe-thuat-song"
+weight = 3
 
 [[footer_left]]
-name = "Pricing"
-url = "pricing"
-
+name = "Phương pháp & Nội quy"
+url = "/phuong-phap"
+weight = 4
 
 # footer menu middle
 [[footer_middle]]

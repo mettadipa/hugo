@@ -2,7 +2,7 @@
 title: "Dies ist eine deutsche Testseite"
 date: 2020-04-18T10:07:21+06:00
 # post image
-image: "images/blog/post-1.jpg"
+image: "images/news/post-1.jpg"
 # post type (regular/featured)
 type: "featured"
 # meta description
@@ -163,7 +163,7 @@ Markdown | Weniger | Schön
 
 ##### Bilder
 
-![image](../../images/blog/post-6.jpg)
+![image](../../images/news/post-6.jpg)
 
 <hr>
 
