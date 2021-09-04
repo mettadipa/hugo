@@ -2,7 +2,7 @@
 title: "Phương Pháp & Nội Quy Khóa Thiền"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "Phương Pháp & Nội Quy Khóa Thiền"
 draft: false
 ---
 
