@@ -20,7 +20,7 @@ feature:
       button:
         enable : true
         label : "Tìm hiểu"
-        link : "/vipassana-la-gi"
+        link : "/vipassana"
       
     # feature item loop
     - name : "Thiền sư S.N. Goenka"
