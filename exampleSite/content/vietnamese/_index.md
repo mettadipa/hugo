@@ -44,7 +44,7 @@ feature:
       button:
         enable : true
         label : "Tìm hiểu"
-        link : "#"
+        link : "/phuong-phap"
       
     # feature item loop
     - name : "Hỏi đáp về Thiền Vipassana"
