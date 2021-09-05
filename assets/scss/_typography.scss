@@ -4,7 +4,7 @@ body {
   line-height: 1.2;
   font-family: $primary-font;
   -webkit-font-smoothing: antialiased;
-  font-size: 16px;
+  font-size: 1.03rem;
   color: $text-color;
 }
 
@@ -12,7 +12,7 @@ p,
 .paragraph {
   font-weight: 400;
   color: $text-color;
-  font-size: 16px;
+  font-size: 1.03rem;
   line-height: 1.7;
   font-family: $primary-font;
 }
@@ -30,45 +30,45 @@ h6, .h6 {
   color: $text-color-dark;
   font-family: $primary-font;
   font-weight: 700;
-  line-height: 1.2;
+  line-height: 1.4;
 }
 
 h1,
 .h1 {
-  font-size: 32px;
+  font-size: 2rem;
 
   @include tablet {
-    font-size: 30px;
+    font-size: 1.875rem;
   }
 }
 
 h2,
 .h2 {
-  font-size: 24px;
+  font-size: 1.5rem;
 
   @include tablet {
-    font-size: 22px;
+    font-size: 1.375rem;
   }
 }
 
 h3,
 .h3 {
-  font-size: 18.72px;
+  font-size: 1.17rem;
 }
 
 h4,
 .h4 {
-  font-size: 16px;
+  font-size: 1.03rem;
 }
 
 h5,
 .h5 {
-  font-size: 13.28px;
+  font-size: 0.83rem;
 }
 
 h6,
 .h6 {
-  font-size: 10.72px;
+  font-size: 0.67rem;
 }
 
 .display-3{

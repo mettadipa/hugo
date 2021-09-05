@@ -3,14 +3,14 @@ body {
   line-height: 1.2;
   font-family: "Mulish", sans-serif;
   -webkit-font-smoothing: antialiased;
-  font-size: 16px;
+  font-size: 1.03rem;
   color: #222b45; }
 
 p,
 .paragraph {
   font-weight: 400;
   color: #222b45;
-  font-size: 16px;
+  font-size: 1.03rem;
   line-height: 1.7;
   font-family: "Mulish", sans-serif; }
 
@@ -26,37 +26,37 @@ h6, .h6 {
   color: #222;
   font-family: "Mulish", sans-serif;
   font-weight: 700;
-  line-height: 1.2; }
+  line-height: 1.4; }
 
 h1,
 .h1 {
-  font-size: 32px; }
+  font-size: 2rem; }
   @media (max-width: 767px) {
     h1,
     .h1 {
-      font-size: 30px; } }
+      font-size: 1.875rem; } }
 h2,
 .h2 {
-  font-size: 24px; }
+  font-size: 1.5rem; }
   @media (max-width: 767px) {
     h2,
     .h2 {
-      font-size: 22px; } }
+      font-size: 1.375rem; } }
 h3,
 .h3 {
-  font-size: 18.72px; }
+  font-size: 1.17rem; }
 
 h4,
 .h4 {
-  font-size: 16px; }
+  font-size: 1.03rem; }
 
 h5,
 .h5 {
-  font-size: 13.28px; }
+  font-size: 0.83rem; }
 
 h6,
 .h6 {
-  font-size: 10.72px; }
+  font-size: 0.67rem; }
 
 .display-3 {
   font-size: 2.6rem; }
@@ -300,8 +300,8 @@ textarea.form-control {
 
 .footer-list a {
   display: block;
-  padding: 5px 0;
-  font-size: 16px;
+  padding: 3px 0;
+  font-size: 1rem;
   color: #222b45;
   margin: 8px 0; }
   .footer-list a:hover {
@@ -467,7 +467,7 @@ a.post-title {
   left: 2rem; }
 
 .content blockquote {
-  font-size: 20px !important;
+  font-size: 1.25px !important;
   color: #222b45;
   padding: 20px 40px;
   border-left: 2px solid #0AA8A7;
@@ -540,7 +540,7 @@ a.post-title {
       margin: 0;
       margin-bottom: 40px; } }
 .price {
-  font-size: 50px;
+  font-size: 3.125rem;
   color: #222; }
 
 a {
