@@ -3,7 +3,7 @@ logo = "images/logo.png"
 logo_width = "200px"
 # OpenGraph / Twitter Card metadata
 description = "Trung tâm UNESCO Bồi dưỡng Kỹ năng sống và ứng dụng thiền Vipassana"
-author = "Themefisher"
+author = "UCENLIST"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
