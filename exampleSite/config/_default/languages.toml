@@ -11,19 +11,3 @@ footer_menu_right = "Trung tâm UCENLIST"
 footer_content = "Trung tâm UNESCO Bồi dưỡng Kỹ năng sống và ứng dụng thiền Vipassana."
 # copyright
 copyright = "UCENLIST - ​Trung tâm UNESCO Bồi dưỡng Kỹ năng sống và ứng dụng thiền Vipassana<br>​Tổ chức hoạt động phi lợi nhuận trực thuộc Liên hiệp các hội UNESCO Việt Nam"
-
-
-
-############################# Deutsch ############################
-[de]
-languageName = "De"
-title = "Hugo Hugo"
-contentDir = "content/deutsch" # content/german
-weight = 2
-########### footer content ##########
-footer_menu_left = "Firma"
-footer_menu_middle = "Produkte"
-footer_menu_right = "Support"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
-# copyright
-copyright = "Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)"
