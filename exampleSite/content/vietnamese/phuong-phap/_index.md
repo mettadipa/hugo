@@ -56,7 +56,8 @@ Những thiền sinh cũ (đó là những người đã hoàn thành một khó
 - Không ăn sau 12 giờ trưa.
 - Không tiêu khiển theo khoái cảm và trang điểm.
 - Không ngủ trên giường cao và sang trọng.
-- Thiền sinh cũ giữ giới thứ sáu bằng cách chỉ dùng nước trà (không sữa) và nước trái cây trong giờ giải lao lúc 5 giờ chiều, trong khi đó thiền sinh mới có thể dùng trà với sữa và trái cây. Thiền sư có thể cho phép một thiền sinh cũ không phải giữ giới này vì lý do sức khỏe. Tất cả đều phải giữ giới thứ bảy và thứ tám.
+
+Thiền sinh cũ giữ giới thứ sáu bằng cách chỉ dùng nước trà (không sữa) và nước trái cây trong giờ giải lao lúc 5 giờ chiều, trong khi đó thiền sinh mới có thể dùng trà với sữa và trái cây. Thiền sư có thể cho phép một thiền sinh cũ không phải giữ giới này vì lý do sức khỏe. Tất cả đều phải giữ giới thứ bảy và thứ tám.
 
 #### Tuân Phục Thiền Sư và Phương Pháp
 
