@@ -12,7 +12,7 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Thông tin về thiền Vipassana"
+  title : "Thông tin chính"
   feature_item:
     # feature item loop
     - name : "Thiền Vipassana là gì?"
