@@ -24,7 +24,7 @@ parent = "about"
 weight = 2
 
 [[main]]
-name = "Nghệ thuật sống thiền Vipassana?"
+name = "Nghệ thuật sống: thiền Vipassana"
 url = "nghe-thuat-song"
 parent = "about"
 weight = 3
