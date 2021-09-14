@@ -5,8 +5,9 @@ subtitle: ""
 description: "Thông tin liên hệ - Trung tâm UCENLIST"
 draft: false
 ---
+<p class="text-warning">Do diễn biến phức tạp của dịch bệnh COVID-19, các khoá thiền Vipassana tại Trung tâm UCENLIST phải huỷ bỏ và sẽ được tổ chức vào dịp khác thuận tiện hơn.
 
-Mọi thông tin chi tiết xin vui lòng liên hệ:
+Ban tổ chức chương trình xin cáo lỗi đến tất cả những quý vị quan tâm tới các khoá thiền Vipassana!</p>
 
 * **Email**: info@ucenlist.org
 * **Cơ sở I**: Trung tâm UCENLIST – cơ sở 1, Đội 2, thôn Minh Tân, xã Minh Trí, huyện Sóc Sơn, Hà Nội.
